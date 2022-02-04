@@ -1,0 +1,5 @@
+varialble x,y
+
+addition &(x)+&(y)
+subtraction &(x)-&(y)
+multiplication &(x)*&(y)
