@@ -4,6 +4,7 @@ pipeline{
    stage('echo'){
      steps{
       echo 'Hello world'
+      echo 'this is my 1st pipeline using jenkinsfile'
      }
 
    }
